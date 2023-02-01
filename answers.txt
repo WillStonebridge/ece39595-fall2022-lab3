@@ -1,0 +1,11 @@
+Pros:
+Allows for constant communication with customers
+Provides value to customer during development
+Cons:
+Requires constant coordination and meetings
+Allows for scope creep
+
+Scrum master:
+Facilitates sprints and meetings 
+Product Owner: 
+handles release and stakeholder management. sets team direction.
