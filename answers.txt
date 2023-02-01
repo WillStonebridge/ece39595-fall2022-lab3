@@ -9,3 +9,7 @@ Scrum master:
 Facilitates sprints and meetings 
 Product Owner: 
 handles release and stakeholder management. sets team direction.
+
+Sprint Planning meeting: 1) Move stories from backlog into sprint. 2) Assign stories to team members
+Daily Scrum/Standup: 1) What happened on the given day regarding the sprint. 2) Discuss and identify blockers.
+Sprint retrospective: 1)Discuss completed work 2) move incomplete work to backlog.
